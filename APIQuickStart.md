@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a quick introduction to using the Eigen API to interact with the Eigen Platform. Used in conjunction with the documentation served by the webserver itself (accessible at `https://hostname/api/v1/docs/`), when authenticated, it should provide enough information to begin using the Eigen platform as part of your own toolchain.
+This document is a quick introduction to using the Eigen API to interact with the Eigen Platform. Used in conjunction with the documentation served by the webserver itself (accessible at `https://hostname/api/v1/docs/`), when authenticated, it should provide enough information to begin using the Eigen platform as part of your own toolchain.
 
 All URLs in this document are given relative to the root path, names as `{BASE_URL}` and so are assumed to include the `https://hostname/api/v1/` as a prepend - e.g. the url `{BASE_URL}/docs/` is actually `https://hostname/api/v1/docs/`.
 
